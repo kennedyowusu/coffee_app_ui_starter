@@ -1,5 +1,3 @@
-import 'package:coffee/constants/images.dart';
-import 'package:coffee/widgets/button.dart';
 import 'package:flutter/material.dart';
 
 class WelcomeScreen extends StatefulWidget {
