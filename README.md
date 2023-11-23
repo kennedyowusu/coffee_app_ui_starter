@@ -1,6 +1,8 @@
 # coffee
 
-A new Flutter project.
+## Video Tutorial Link:
+
+https://youtu.be/UX75XM27Zbs
 
 ## Getting Started
 
